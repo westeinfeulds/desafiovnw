@@ -8,9 +8,6 @@ header{
 .im1{
 
 }
-.im2{
-	
-}
 
 .container{
 
@@ -21,10 +18,10 @@ header{
 	width: 430px;
 
 }
-.h1{
+.h2{
 	font-size: 18px;
 }
-.h2{
+.p1{
 	
 
 }
@@ -33,4 +30,13 @@ header{
 	flex-direction: row;
 	width: 300px;
 	height: 350px;
+}
+.im2{
+	
+}
+.im2{
+
+}
+.p2{
+
 }
